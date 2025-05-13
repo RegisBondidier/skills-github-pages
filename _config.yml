@@ -2,5 +2,4 @@ theme: minima
 
 title: My first Jekyll Blog
 description: A blog about my journey in learning Jekyll.
-author:
-  name: Regis Bondidier
+author: Regis Bondidier
